@@ -1,0 +1,18 @@
+langchain
+unstructured # Document loading
+chromadb # Vector storage
+openai # For embeddings
+tiktoken  # For embeddings
+pinecone-client
+langchain
+langchain-openai
+langchain_community
+langchain_pinecone
+langchain[docarray]
+docarray
+pydantic==1.10.8
+python-dotenv 
+pinecone-client 
+scikit-learn
+datasets==2.10.1
+pypdf
