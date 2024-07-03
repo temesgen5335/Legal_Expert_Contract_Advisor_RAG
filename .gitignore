@@ -1,0 +1,8 @@
+#document datas
+data/
+
+#environment variable
+we11env/
+
+.env
+
