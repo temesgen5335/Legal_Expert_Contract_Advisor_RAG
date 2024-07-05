@@ -16,3 +16,10 @@ pinecone-client
 scikit-learn
 datasets==2.10.1
 pypdf
+weaviate
+tabula
+ragas==0.0.22
+flask
+axios
+cors
+haystack
