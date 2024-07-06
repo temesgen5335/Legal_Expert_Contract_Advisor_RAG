@@ -3,6 +3,7 @@ data/
 
 #environment variable
 we11env/
+fenv/
 
 .env
 
