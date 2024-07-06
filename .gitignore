@@ -3,7 +3,8 @@ data/
 
 #environment variable
 we11env/
-fenv/
+flask/fenv/
+
 
 .env
 
