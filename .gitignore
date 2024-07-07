@@ -5,6 +5,8 @@ data/
 we11env/
 flask/fenv/
 .env
+.venv/
+
 
 #files
 Autogen_agents.ipynb
