@@ -14,6 +14,39 @@ This project aims to develop a high-precision legal expert system for contract Q
 - Evaluation framework using RAGAS metrics
 - Optimization techniques for improved performance
 
+## Folder Structure
+
+├── data
+│   ├── contracts
+│   └── Q&A
+├── Dockerfile
+├── evaluation
+│   ├── data_processing.ipynb
+│   └── ragas.ipynb
+├── flask
+│   ├── rag_app.py
+│   ├── run.py
+│   └── src
+├── frontend
+│   ├── index.html
+│   ├── node_modules
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── public
+│   ├── README.md
+│   ├── src
+│   └── vite.config.js
+├── LICENSE
+├── notebooks
+│   ├── Autogen_agent.ipynb
+│   ├── Langchain_exp.ipynb
+│   └── simple_RAG_.ipynb
+├── README.md
+├── requirements.txt
+└── scripts
+    ├── evaluation.py
+    └── utils.py
+
 
 ## Installation
 
@@ -46,7 +79,6 @@ source venv/bin/activate  # On Windows, use venv\Scripts\activate
 ```sh
 pip install -r requirements.txt
 ```
-
 
 
 ## License
