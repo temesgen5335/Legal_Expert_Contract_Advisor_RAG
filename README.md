@@ -16,36 +16,36 @@ This project aims to develop a high-precision legal expert system for contract Q
 
 ## Folder Structure
 
-├── data
-│   ├── contracts
-│   └── Q&A
-├── Dockerfile
-├── evaluation
-│   ├── data_processing.ipynb
-│   └── ragas.ipynb
-├── flask
-│   ├── rag_app.py
-│   ├── run.py
-│   └── src
-├── frontend
-│   ├── index.html
-│   ├── node_modules
-│   ├── package.json
-│   ├── package-lock.json
-│   ├── public
-│   ├── README.md
-│   ├── src
-│   └── vite.config.js
-├── LICENSE
-├── notebooks
-│   ├── Autogen_agent.ipynb
-│   ├── Langchain_exp.ipynb
-│   └── simple_RAG_.ipynb
-├── README.md
-├── requirements.txt
-└── scripts
-    ├── evaluation.py
-    └── utils.py
+    ├── data
+    │   ├── contracts
+    │   └── Q&A
+    ├── Dockerfile
+    ├── evaluation
+    │   ├── data_processing.ipynb
+    │   └── ragas.ipynb
+    ├── flask
+    │   ├── rag_app.py
+    │   ├── run.py
+    │   └── src
+    ├── frontend
+    │   ├── index.html
+    │   ├── node_modules
+    │   ├── package.json
+    │   ├── package-lock.json
+    │   ├── public
+    │   ├── README.md
+    │   ├── src
+    │   └── vite.config.js
+    ├── LICENSE
+    ├── notebooks
+    │   ├── Autogen_agent.ipynb
+    │   ├── Langchain_exp.ipynb
+    │   └── simple_RAG_.ipynb
+    ├── README.md
+    ├── requirements.txt
+    └── scripts
+        ├── evaluation.py
+        └── utils.py
 
 
 ## Installation
