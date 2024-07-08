@@ -9,5 +9,6 @@ flask/fenv/
 
 
 #files
-Autogen_agents.ipynb
+notebooks/Autogen_agent.ipynb
+
 
