@@ -1,7 +1,3 @@
-import logging
-import os, sys
-import tempfile
-
 from langchain.chains import ConversationalRetrievalChain
 from langchain.retrievers.document_compressors import EmbeddingsFilter
 from langchain.chat_models import ChatOpenAI
@@ -13,6 +9,9 @@ from langchain.vectorstores import Qdrant
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain.schema import BaseRetriever, Document
 from dotenv import load_dotenv
+import logging
+import os, sys
+import tempfile
 
 rpath = os.path.abspath('..')
 if rpath not in sys.path:
